@@ -1,2 +1,2 @@
-# JavaAppium
+# Java-Appium
 test QA project
